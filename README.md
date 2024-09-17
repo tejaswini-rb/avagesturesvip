@@ -1,6 +1,6 @@
 # avagesturesvip
 ## Prerequisties
-- ``pip install bvhtoolbox py-fbx``
+- ``pip install bvhtoolbox pyfbx``
 
 ## Steps
 - Use bvhtoolbox to read and parse the BVH file.
